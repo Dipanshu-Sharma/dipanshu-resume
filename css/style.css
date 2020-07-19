@@ -9694,7 +9694,10 @@ textarea.form-control {
 
     .bold-text{
       font-weight: 600;
-      
+    }
+
+    .font-20{
+      font-size: 20px;
     }
 
     .overlay {
