@@ -9700,6 +9700,10 @@ textarea.form-control {
       font-size: 20px;
     }
 
+    .font-16{
+      font-size: 16px;
+    }
+
     .overlay {
       height: 0%;
       width: 100%;
